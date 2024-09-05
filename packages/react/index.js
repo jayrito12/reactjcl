@@ -32,6 +32,7 @@ export type ChildrenArray<+T> = $ReadOnlyArray<ChildrenArray<T>> | T;
 export {
   __CLIENT_INTERNALS_DO_NOT_USE_OR_WARN_USERS_THEY_CANNOT_UPGRADE,
   Children,
+  JJJJJAAAAAAAYYYYYRRRRRROOO CCCCERRRRRRRR
   Component,
   Fragment,
   Profiler,
